@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def basic():
     """
      行列式基础
@@ -17,8 +16,5 @@ def basic():
     # 行列式转置
     e = c.transpose()
     print(e)
-
-
-
 
 basic()
